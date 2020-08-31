@@ -1354,4 +1354,4 @@
 
 - [@abhical](https://github.com/abhical/)
 
--.[@shubhamsambhu].(https://github.com/shubhamsambhu)
+- [@shubhamsambhu](https://github.com/shubhamsambhu)
